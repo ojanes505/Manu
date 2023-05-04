@@ -20,6 +20,7 @@ manu_palettes <- list(
   Putangitangi = c("#AA988A", "#B66A40", "#2F414B", "#2B4B3C", "#7A3520", "#7B8BA5"),
   Takahe = c("#DD3C51", "#313657", "#1F6683", "#6C90B9", "#D1C7B5"),
   Takapu = c("#DEB478", "#976533", "#D3D5D0","#76716E","#272623"),
+  Tchuriwat = c("#f54611", "#a38d5f", "#272318", "#decda9", "#dbd7ce"),
   Titipounamu = c("#3E4331", "#AD6B17", "#66743B", "#D0C471", "#CCB62F", "#BAC4C2"),
   Tui = c("#7ACCD7", "#115896", "#7C6C65", "#4C4C53", "#BA2F00", "#21282F"),
   Pepetuna = c("#719E56", "#71702F", "#947163", "#623711", "#425266"),
@@ -31,7 +32,7 @@ manu_palettes <- list(
 #'
 #' This function returns colour palettes derived from photos of birds native to New Zealand
 #'
-#' @param name Name of desired palette. Choices are: \code{Hihi}, \code{Hoiho}, \code{Kaka}, \code{Kakariki}, \code{Kea}, \code{Kereru}, \code{Kereru_orig}, \code{Korimako}, \code{Korora}, \code{Kotare}, \code{Putangitangi}, \code{Takahe}, \code{Takapu}, \code{Titipounamu}, \code{Tui}, \code{Pepetuna}, \code{Gloomy_Nudi} and \code{Pohutukawa}
+#' @param name Name of desired palette. Choices are: \code{Hihi}, \code{Hoiho}, \code{Kaka}, \code{Kakariki}, \code{Kea}, \code{Kereru}, \code{Kereru_orig}, \code{Korimako}, \code{Korora}, \code{Kotare}, \code{Putangitangi}, \code{Takahe}, \code{Takapu}, \code{Tchuriwat}, \code{Titipounamu}, \code{Tui}, \code{Pepetuna}, \code{Gloomy_Nudi} and \code{Pohutukawa}
 #'
 #' @return A vector of colours.
 #' @export
